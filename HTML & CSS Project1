@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Red+Rose:wght@300;400;500;600;700&display=swap" rel="stylesheet"></head>
+<body>
+    <header>
+        <nav class="navbar container">
+            <!-- LOGO -->
+            <div class="logo"><img src="./image/white-logo.png" alt="Logo" height="30px" ></div>
+
+            <!-- NAVIGATION -->
+            <div>
+                <ul class="nav-list">
+                    <li class="nav-item">Our Menu</li>
+                    <li class="nav-item">Maps</li>
+                    <li class="nav-item">About</li>
+                    <li class="nav-item">Contact</li>
+                </ul>
+            </div>
+            
+
+            <!-- BUTTON -->
+            
+                <button class="button-small">Order</button>
+            
+
+        </nav>
+    </header>
+
+    <main class="main">
+        <!-- Text Line -->
+        <div>
+            <h1 >
+            A Resturant That <br> Only Serves <br> Delicious Food
+            </h1>
+            <br>
+
+        
+            <button class="button-large">
+                Read Our Menu
+            </button>
+        </div>
+        
+    </main>
+
+    <footer class="footer">
+        <img src="./image/scroll.png" alt="scroll" width="60px" height="60px">
+    </footer>
+    
+</body>
+</html>
